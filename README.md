@@ -34,7 +34,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 
 ```bash
 # Clone o repositorio
-git clone https://github.com/seu-usuario/tutorial_mcp_langgraph.git
+git clone https://github.com/gustavo-sacchi/tutorial_mcp_langgraph.git
 cd tutorial_mcp_langgraph
 
 # Instale as dependencias e crie o ambiente virtual
