@@ -1,0 +1,17 @@
+[project]
+name = "tutorial-mcp-langgraph"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "duckduckgo-search>=8.1.1",
+    "fastmcp>=2.11.0",
+    "langchain-groq>=0.3.6",
+    "langchain-mcp-adapters>=0.1.9",
+    "langchain-openai>=0.3.28",
+    "langchain>=0.3.27",
+    "langgraph>=0.6.2",
+    "markdownify>=1.1.0",
+    "yfinance>=0.2.65",
+]
