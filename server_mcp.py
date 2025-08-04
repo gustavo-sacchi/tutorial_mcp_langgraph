@@ -1,4 +1,3 @@
-import asyncio
 import yfinance as yf
 
 import httpx
